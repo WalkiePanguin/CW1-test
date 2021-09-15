@@ -15,7 +15,7 @@ public class Calculator {
 		num2 = a.nextDouble();
 		
 		double answer = num1 + num2;
-		System.out.println(answer + "hellloooooooooooooo");
+		System.out.println(answer);
 
 	}
 
